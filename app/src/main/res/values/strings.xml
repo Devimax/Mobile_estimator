@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mobile estimator</string>
+    <string name="undefine_category_name">Undefine Category</string>
 </resources>
